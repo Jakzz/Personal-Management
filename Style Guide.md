@@ -22,3 +22,5 @@ When quoting '<code>' in context
 1 Ordered
 1 Ordered a
 1 Ordered b 
+
+<!-- Comment out --->
