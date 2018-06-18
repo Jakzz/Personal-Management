@@ -13,7 +13,7 @@ Description
 Description
 
 ## Education
-### Institudtion Name
+### Institution Name
 ###### Qualification(s) acheived | Date Achieved (or dates of study)
 Description
 
