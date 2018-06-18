@@ -26,22 +26,25 @@ Ran back office functions for a salary sacrifice promotion for 7 client site - f
 ###### Quality Manager | Dates of Service
 Successful review of ISO 9001:2008 processes and practices, re-qrote the company handbook, key policies, implemented Zendesk for managing 
 ###### Web Coordinator | Dates of Service
-Description
+Managment of a bespoke CRM and e-commerce platform
 
 ## Education
 ### The College of Law
-###### Post-Graduate Diploma in Law | Date Achieved (or dates of study)
+###### Post-Graduate Diploma in Law | 2010
 Description
 
-### Institution Name
-#### Qualification(s) acheived | Date Achieved (or dates of study)
+### University of Essex
+#### BA Humanities | 2008
 Description
 
-Skills | Interests | Portfolio/Social (where relevent)
+## Additional Information
+Skills | Interests 
 
 ### References
 > Available on request
-<!---##### Their Name
-###### Phone | their@email.com
-Brief description of relationship personal/professional
---->
+<!---##### Their Name--->
+<!---###### Phone | their@email.com--->
+<!---Brief description of relationship personal/professional--->
+<!---##### Their Name--->
+<!---###### Phone | their@email.com--->
+<!---Brief description of relationship personal/professional--->
