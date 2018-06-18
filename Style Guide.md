@@ -13,7 +13,7 @@
 
 > Quotes
 > More Quotes
-When quoting in '<code>context'
+When quoting in <code>context</code>
 
 * Bullet
 - also bullet
