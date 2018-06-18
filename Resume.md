@@ -1,5 +1,5 @@
 # James Copperwaite
-###### Phone | your@email.com
+<!---###### Phone | your@email.com--->
 
 > Personal statement
 
@@ -37,6 +37,7 @@ Skills | Interests | Portfolio/Social (where relevent)
 
 References
 > Available on request
-##### Their Name
+<!---##### Their Name
 ###### Phone | their@email.com
 Brief description of relationship personal/professional
+--->
