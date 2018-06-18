@@ -21,9 +21,11 @@ Description
 #### Qualification(s) acheived | Date Achieved (or dates of study)
 Description
 
-Skills | Interests | Portfolio/Social <!--(where relevent)-->
+### Skills | Interests
 
-References
+### Portfolio/Social <!--(where relevent)-->
+
+### References
 > Available on request
 ##### Their Name
 ###### Phone | their@email.com
