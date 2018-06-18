@@ -1,7 +1,7 @@
 # James Copperwaite
 <!---###### Phone | your@email.com--->
 
-> Personal statement
+> I’ve been working as a Business Analyst for five years, the least three of which partnering with the fundraising and events marketing team of a major not-for-profit. I have a customer-centric approach, able to empathise and design solutions for increased engagement from internal and external stakeholders. In addition to qualifications in Business Analysis, Project Management, Systems Testing, and Change Management, I have a keen interest and affinity for Compliance and User Experience - in particular digital accessibility.
 
 ## Work Experience
 ### Endeavour Foundation
