@@ -21,6 +21,7 @@ Description
 #### Qualification(s) acheived | Date Achieved (or dates of study)
 Description
 
+## Additional Information
 ### Skills | Interests
 
 ### Portfolio/Social <!--(where relevent)-->
