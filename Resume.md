@@ -1,20 +1,32 @@
-# Your Name
+# James Copperwaite
 ###### Phone | your@email.com
 
 > Personal statement
 
 ## Work Experience
-### Company Name
-###### Position | Dates of Service
+### Endeavour Foundation
+###### Business Analyst | Oct 2014-Present
 Description
 
-### Company Name
-###### Position | Dates of Service
+### IRIQ
+###### Position | June 2014-July 2014
+Description
+
+### Certeco
+###### Analyst | Dates of Service
+Description
+
+### Academia
+###### Operations Manager | Dates of Service
+Description
+###### Quality Manager | Dates of Service
+Description
+###### Operations Maanger | Dates of Service
 Description
 
 ## Education
-### Institution Name
-###### Qualification(s) acheived | Date Achieved (or dates of study)
+### The College of Law
+###### Post-Graduate Diploma in Law | Date Achieved (or dates of study)
 Description
 
 ### Institudtion Name
