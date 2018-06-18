@@ -33,13 +33,13 @@ Description
 ###### Post-Graduate Diploma in Law | Date Achieved (or dates of study)
 Description
 
-### Institudtion Name
+### Institution Name
 #### Qualification(s) acheived | Date Achieved (or dates of study)
 Description
 
 Skills | Interests | Portfolio/Social (where relevent)
 
-References
+### References
 > Available on request
 <!---##### Their Name
 ###### Phone | their@email.com
