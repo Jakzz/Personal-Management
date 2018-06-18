@@ -13,7 +13,7 @@
 
 > Quotes
 > More Quotes
-When quoting <code> in <code> context
+When quoting 'with apostrophes' or <code>by code
 
 * Bullet
 - also bullet
