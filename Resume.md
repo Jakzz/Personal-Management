@@ -28,6 +28,9 @@ Description
 
 ### References
 > Available on request
-##### Their Name
-###### Phone | their@email.com
-Brief description of relationship personal/professional
+<!--##### Their Name-->
+<!--###### Phone | their@email.com-->
+<!--Brief description of relationship personal/professional-->
+<!--##### Their Name-->
+<!--###### Phone | their@email.com-->
+<!--Brief description of relationship personal/professional-->
