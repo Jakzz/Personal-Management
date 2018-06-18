@@ -13,15 +13,19 @@ Description
 Description
 
 ### Certeco
-###### Analyst | Dates of Service
+##### Consultant | Dates of Service
+Description
+###### PMO Assistant @ Royal Bank of Scotland | Dates of Service
+Description
+###### Contnent Analyst @ Barclays | Dates of Service
 Description
 
 ### Academia
 ###### Operations Manager | Dates of Service
-Description
+Ran back office functions for a salary sacrifice promotion for 7 client site - from contract review, managing orders, negotiations with vendors, arranging delivery
 ###### Quality Manager | Dates of Service
-Description
-###### Operations Maanger | Dates of Service
+Successful review of ISO9001:2008 processes and practices, re-qrote the company handbook, key policies, implemented Zendesk for managing 
+###### Web Coordinator | Dates of Service
 Description
 
 ## Education
