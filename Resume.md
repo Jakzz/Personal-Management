@@ -17,11 +17,11 @@ Description
 ###### Qualification(s) acheived | Date Achieved (or dates of study)
 Description
 
-### Institudtion Name
+### Institution Name
 #### Qualification(s) acheived | Date Achieved (or dates of study)
 Description
 
-Skills | Interests | Portfolio/Social (where relevent)
+Skills | Interests | Portfolio/Social <!--(where relevent)-->
 
 References
 > Available on request
