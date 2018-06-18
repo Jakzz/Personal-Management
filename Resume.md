@@ -24,7 +24,7 @@ Description
 ###### Operations Manager | Dates of Service
 Ran back office functions for a salary sacrifice promotion for 7 client site - from contract review, managing orders, negotiations with vendors, arranging delivery
 ###### Quality Manager | Dates of Service
-Successful review of ISO9001:2008 processes and practices, re-qrote the company handbook, key policies, implemented Zendesk for managing 
+Successful review of ISO 9001:2008 processes and practices, re-qrote the company handbook, key policies, implemented Zendesk for managing 
 ###### Web Coordinator | Dates of Service
 Description
 
