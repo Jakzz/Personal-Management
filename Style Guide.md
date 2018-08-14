@@ -20,8 +20,8 @@ When quoting in <code>context</code>
 - also bullet
 + also bullet
 
-1 Ordered
-1 Ordered a
-1 Ordered b 
+1. Ordered
+1. Ordered a
+1. Ordered b 
 
 <!--- Comment out --->
