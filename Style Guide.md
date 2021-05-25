@@ -22,6 +22,7 @@ When quoting in <code>context</code>
 1. Ordered a
 1. Ordered b 
 
+Table
 | Header Auto Formatted | --- |
 | A1 | B1 |
 | A2 | B2 |
